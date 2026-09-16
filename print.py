@@ -5,11 +5,10 @@ print(len("hello world"))
 
 str abc:"acv sdjsd"
 
-print(abc123)
-<<<<<<< HEAD
+print(abc)
 print("abc")
 
-print(xyz)
-=======
+print(xyz) 
 print("abcc")
->>>>>>> bug-fix
+
+print("sdf")
