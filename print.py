@@ -5,4 +5,5 @@ print(len("hello world"))
 
 str abc:"acv sdjsd"
 
-print(abc)
+print(abc123)
+print("abc")
